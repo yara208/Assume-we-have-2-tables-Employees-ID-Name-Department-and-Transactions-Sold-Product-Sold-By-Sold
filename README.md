@@ -1,0 +1,1 @@
+# Assume-we-have-2-tables-Employees-ID-Name-Department-and-Transactions-Sold-Product-Sold-By-Sold
